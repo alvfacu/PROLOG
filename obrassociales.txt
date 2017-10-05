@@ -1,0 +1,14 @@
+obraSocial(italmedic,modena,bayaspirina,10).
+obraSocial(italmedic,modena,ibuprofeno,100).
+obraSocial(italmedic,modena,sertal,100).
+obraSocial(jerarquicos,apolaf,bayaspirina,100).
+obraSocial(jerarquicos,apolaf,ibuprofeno,15).
+obraSocial(jerarquicos,apolaf,sertal,99).
+obraSocial(jerarquicos,apolaf,evatest,100).
+obraSocial(italmedic,modena,faloparosa,100).
+obraSocial(italmedic,modena,sertal2,100).
+obraSocial(italmedic,modena,falopanaranja,100).
+obraSocial(osecac,vip,bayaspirina,100).
+obraSocial(osecac,vip,ibuprofeno,100).
+obraSocial(osecac,vip,sertal,100).
+obraSocial(osecac,vip,evatest,100).

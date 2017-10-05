@@ -1,0 +1,7 @@
+persona(1,facundoalvarez,23,italmedic,modena).
+persona(2,florenciaalvarez,55,italmedic,modena).
+persona(3,zulemaricardi,50,jerarquicos,apolaf).
+persona(4,raulalvarez,55,jerarquicos,apolaf).
+persona(5,rosabeatriz,57,osecac,vip).
+persona(1,facundoalvarez,23,utedic,pasante).
+persona(2,florenciaalvarez,55,mnr,psicologa).

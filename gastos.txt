@@ -1,0 +1,14 @@
+vehiculo(1,nissan,843).
+vehiculo(2,renault,749).
+vehiculo(3,renault,321).
+vehiculo(4,renault,123).
+
+viaje(1,500).
+viaje(2,550).
+viaje(3,600).
+viaje(1,700).
+viaje(1,750).
+viaje(3,50).
+viaje(3,400).
+viaje(4,500).
+viaje(1,500).
